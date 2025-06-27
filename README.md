@@ -1,7 +1,7 @@
 <div style="background-color: #ffe6f0; padding: 30px; border-radius: 15px;">
 
 <p align="center">
-  <img src="https://emojicdn.elk.sh/🌸" width="60"/>
+  
 </p>
 
 <h1 align="center">Oi, eu sou a Anna! 👩‍💻🌸</h1>
