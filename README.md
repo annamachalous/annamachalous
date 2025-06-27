@@ -1,51 +1,81 @@
-<img src="https://emojicdn.elk.sh/🌸" width="60"/> 
-
-<h1 align="center">Oi, eu sou a Anna! 👩‍💻🌸</h1>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFoYm00MWx6M25mODc1MW05ankxNzYzdXpneWdmdHpsbjhua2F5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" alt="GIF perfil">
+<div style="background-color: #ffe6f0; padding: 30px; border-radius: 15px;">
 
 <p align="center">
-  Desenvolvedora em formação apaixonada por tecnologia, dados, e tudo que tem um toque fofo e funcional ✨
+  <img src="https://emojicdn.elk.sh/🌸" width="60"/>
 </p>
 
----
+<h1 align="center">Oi, eu sou a Anna! 👩‍💻🌸</h1>
 
-## 💖 Sobre mim
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFoYm00MWx6M25mODc1MW05ankxNzYzdXpneWdmdHpsbjhua2F5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" alt="GIF perfil" width="400">
+</p>
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre)  
-- 🧠 Autodidata em desenvolvimento web, com foco em **Java, AngularJS e dados**  
-- 🚀 Em constante evolução, sonhando grande e codando com amor
+<p align="center">
+  Desenvolvedora em formação apaixonada por <strong>tecnologia</strong>, <strong>dados</strong> e tudo que tem um toque <em>fofo e funcional</em> ✨
+</p>
 
----
+<hr>
 
-## 💼 Projetinhos com carinho
+<h2>💖 Sobre mim</h2>
 
-| 💡 Projeto | 🔗 Link | 🧰 Tecnologias |
-|-----------|---------|----------------|
-| 🐾 **PetCode** | [Ver no GitHub](https://github.com/annamachalous/PetCode) | Java, HTML, CSS |
-| 🐷 **Cofrinho da Anna** | [Ver no GitHub](https://github.com/annamachalous/CofrinhoDaAnna) | Java, Orientação a Objetos |
+<ul>
+  <li>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> (3º semestre)</li>
+  <li>🧠 Autodidata em desenvolvimento web, com foco em <strong>Java, AngularJS e dados</strong></li>
+  <li>🚀 Em constante evolução, sonhando grande e codando com amor</li>
+</ul>
 
----
+<hr>
 
-## 🧰 Skills & Tecnologias
+<h2>💼 Projetinhos com carinho</h2>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/AngularJS-DD0031?style=flat&logo=angularjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dados📊-pink?style=flat"/>
+<table>
+  <tr>
+    <th>💡 Projeto</th>
+    <th>🔗 Link</th>
+    <th>🧰 Tecnologias</th>
+  </tr>
+  <tr>
+    <td>🐾 <strong>PetCode</strong></td>
+    <td><a href="https://github.com/annamachalous/PetCode">Ver no GitHub</a></td>
+    <td>Java, HTML, CSS</td>
+  </tr>
+  <tr>
+    <td>🐷 <strong>Cofrinho da Anna</strong></td>
+    <td><a href="https://github.com/annamachalous/CofrinhoDaAnna">Ver no GitHub</a></td>
+    <td>Java, Orientação a Objetos</td>
+  </tr>
+</table>
 
----
+<hr>
 
-## 💬 Vamos conversar?
+<h2>🧰 Skills & Tecnologias</h2>
 
-- 📫 Me chama por aqui: **[@annamachalous](https://github.com/annamachalous)**
-- 🌐 Meu LinkedIn: [Anna Machalous](https://www.linkedin.com/in/annamachalous/)
-- 🌐 Em breve: meu portfólio completo
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angularjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dados📊-pink?style=for-the-badge"/>
+</p>
 
----
+<hr>
+
+<h2>💬 Vamos conversar?</h2>
+
+<ul>
+  <li>📫 Me chama por aqui: <a href="https://github.com/annamachalous">@annamachalous</a></li>
+  <li>🌐 Meu LinkedIn: <a href="https://www.linkedin.com/in/annamachalous/">Anna Machalous</a></li>
+  <li>🧪 Em breve: meu portfólio completo!</li>
+</ul>
+
+<hr>
 
 <p align="center">
   🌸✨ Obrigada por visitar meu perfil! ✨🌸
 </p>
+
+</div>
+
+
 
