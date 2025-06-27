@@ -19,7 +19,7 @@
 <h2>💖 Sobre mim</h2>
 
 <ul>
-  <li>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> (3º semestre)</li>
+  <li>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> (2º semestre)</li>
   <li>🧠 Autodidata em desenvolvimento web, com foco em <strong>Java, AngularJS e dados</strong></li>
   <li>🚀 Em constante evolução, sonhando grande e codando com amor</li>
 </ul>
