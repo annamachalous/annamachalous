@@ -1,7 +1,7 @@
 <img src="https://emojicdn.elk.sh/🌸" width="60"/> 
 
 <h1 align="center">Oi, eu sou a Anna! 👩‍💻🌸</h1>
-(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFoYm00MWx6M25mODc1MW05ankxNzYzdXpneWdmdHpsbjhua2F5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFoYm00MWx6M25mODc1MW05ankxNzYzdXpneWdmdHpsbjhua2F5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" alt="GIF perfil">
 
 <p align="center">
   Desenvolvedora em formação apaixonada por tecnologia, dados, e tudo que tem um toque fofo e funcional ✨
