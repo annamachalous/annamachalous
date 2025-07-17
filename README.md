@@ -37,7 +37,7 @@
   <tr>
     <td>🐾 <strong>PetCode</strong></td>
     <td><a href="https://github.com/annamachalous/PetCode">Ver no GitHub</a></td>
-    <td>Java, HTML, CSS</td>
+    <td>Javascript, HTML, CSS</td>
   </tr>
   <tr>
     <td>🐷 <strong>Cofrinho da Anna</strong></td>
