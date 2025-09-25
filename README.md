@@ -53,9 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=annamachalous&show_icons=true&theme=dracula" alt="GitHub Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=annamachalous&theme=dracula&hide_border=false" alt="GitHub Streak"/>
-</p>
+
 
 ---
 
