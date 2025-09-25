@@ -17,7 +17,7 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (2º semestre)  
 - 🚀 Estagiária em **Service Design na Blip**  
-- 🎨 Interessada em **UX, pesquisa, design de serviços e dados**  
+- 🎨 Interessada em **UX, pesquisa, design de serviços e IA**  
 - 🌱 Atualmente me aprofundando em **experiência do usuário, prototipação e testes**  
 - 💡 Acredito que **tecnologia + design** podem transformar a forma como interagimos com o mundo  
 
@@ -31,19 +31,25 @@
 | 🐷 **Cofrinho da Anna** | [Ver no GitHub](https://github.com/annamachalous/CofrinhoDaAnna) | Java, Orientação a Objetos |
 
 ---
-
 ## 🧰 Skills & Tecnologias  
 
 <p align="center">
+  <!-- Desenvolvimento -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angularjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UX%20Research-8A2BE2?style=for-the-badge&logo=figma&logoColor=white"/>
+
+  <!-- UX / Service Design -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Service%20Design-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UX%20Research-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Dados📊-pink?style=for-the-badge"/>
 </p>
+
 
 ---
 
