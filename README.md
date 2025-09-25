@@ -1,54 +1,38 @@
-<div style="background-color: #ffe6f0; padding: 30px; border-radius: 15px;">
-
-<p align="center">
-  
-</p>
+<div style="background-color: #fdf6f9; padding: 30px; border-radius: 15px;">
 
 <h1 align="center">Oi, eu sou a Anna! 👩‍💻🌸</h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFoYm00MWx6M25mODc1MW05ankxNzYzdXpneWdmdHpsbjhua2F5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" alt="GIF perfil" width="400">
+  <img src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="GIF perfil" width="350">
 </p>
 
 <p align="center">
-  Desenvolvedora em formação apaixonada por <strong>tecnologia</strong>, <strong>dados</strong> e tudo que tem um toque <em>fofo e funcional</em> ✨
+  Estagiária em <strong>Service Design na Blip</strong> 💬✨  
+  Apaixonada por <strong>tecnologia, UX e inovação</strong>, sempre buscando criar experiências que sejam <em>funcionais e encantadoras</em>.  
 </p>
 
-<hr>
+---
 
-<h2>💖 Sobre mim</h2>
+## 💖 Sobre mim  
 
-<ul>
-  <li>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> (2º semestre)</li>
-  <li>🧠 Autodidata em desenvolvimento web, com foco em <strong>Java, AngularJS e dados</strong></li>
-  <li>🚀 Em constante evolução, sonhando grande e codando com amor</li>
-</ul>
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (2º semestre)  
+- 🚀 Estagiária em **Service Design na Blip**  
+- 🎨 Interessada em **UX, pesquisa, design de serviços e dados**  
+- 🌱 Atualmente me aprofundando em **experiência do usuário, prototipação e testes**  
+- 💡 Acredito que **tecnologia + design** podem transformar a forma como interagimos com o mundo  
 
-<hr>
+---
 
-<h2>💼 Projetinhos com carinho</h2>
+## 💼 Projetos em Destaque  
 
-<table>
-  <tr>
-    <th>💡 Projeto</th>
-    <th>🔗 Link</th>
-    <th>🧰 Tecnologias</th>
-  </tr>
-  <tr>
-    <td>🐾 <strong>PetCode</strong></td>
-    <td><a href="https://github.com/annamachalous/PetCode">Ver no GitHub</a></td>
-    <td>Javascript, HTML, CSS</td>
-  </tr>
-  <tr>
-    <td>🐷 <strong>Cofrinho da Anna</strong></td>
-    <td><a href="https://github.com/annamachalous/CofrinhoDaAnna">Ver no GitHub</a></td>
-    <td>Java, Orientação a Objetos</td>
-  </tr>
-</table>
+| 💡 Projeto | 🔗 Link | 🧰 Tecnologias |
+|------------|---------|----------------|
+| 🐾 **PetCode** | [Ver no GitHub](https://github.com/annamachalous/PetCode) | Javascript, HTML, CSS |
+| 🐷 **Cofrinho da Anna** | [Ver no GitHub](https://github.com/annamachalous/CofrinhoDaAnna) | Java, Orientação a Objetos |
 
-<hr>
+---
 
-<h2>🧰 Skills & Tecnologias</h2>
+## 🧰 Skills & Tecnologias  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -56,24 +40,37 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UX%20Research-8A2BE2?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Service%20Design-FF69B4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Dados📊-pink?style=for-the-badge"/>
 </p>
 
-<hr>
+---
 
-<h2>💬 Vamos conversar?</h2>
+## 📊 Minhas Estatísticas  
 
-<ul>
-  <li>📫 Me chama por aqui: <a href="https://github.com/annamachalous">@annamachalous</a></li>
-  <li>🌐 Meu LinkedIn: <a href="https://www.linkedin.com/in/annamachalous/">Anna Machalous</a></li>
-  <li>🧪 Em breve: meu portfólio completo!</li>
-</ul>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=annamachalous&show_icons=true&theme=dracula" alt="GitHub Stats"/>
+</p>
 
-<hr>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=annamachalous&theme=dracula&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 💬 Vamos conversar?  
+
+- 📫 [@annamachalous](https://github.com/annamachalous)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/annamachalous/)  
+- 🧪 Em breve: meu portfólio de UX e Design de Serviços!  
+
+---
 
 <p align="center">
   🌸✨ Obrigada por visitar meu perfil! ✨🌸
 </p>
 
 </div>
+
 
